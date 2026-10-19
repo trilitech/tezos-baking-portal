@@ -52,7 +52,6 @@ next-env.d.ts
 Thumbs.db
 
 # Package managers (keep pnpm-lock.yaml for reproducibility)
-package-lock.json
 yarn.lock
 
 # Local scripts (not for production)
