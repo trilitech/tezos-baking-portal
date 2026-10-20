@@ -43,7 +43,7 @@ export const getStartedContent = {
         "Low-latency reliable internet connection",
       ],
       linkText: "View hardware guide",
-      href: "https://octez.tezos.com/docs/releases/version-23.html#minimal-hardware-specifications",
+      href: "https://octez.tezos.com/docs/releases/latest.html#minimal-hardware-specifications",
     },
     {
       icon: Terminal,
@@ -55,7 +55,7 @@ export const getStartedContent = {
         "Run a DAL node",
       ],
       linkText: "View installation guide",
-      href: "https://octez.tezos.com/docs/introduction/howtoget.html",
+      href: "https://docs.tezos.com/tutorials/join-dal-baker",
     },
     {
       icon: TrendingUp,
