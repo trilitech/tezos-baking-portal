@@ -6,17 +6,10 @@ export const toolsContent = {
   cards: [
     {
       icon: Layers,
-      title: "TezBake (BakeBuddy)",
+      title: "TezBake",
       description: "Easy to use Tezos baking software for both beginners and experts.",
       linkText: "View tool",
-      href: "https://www.bakebuddy.xyz/",
-    },
-    {
-      icon: Terminal,
-      title: "Kiln",
-      description: "GUI tool for baking on Tezos. Easy to set up and monitor your baker.",
-      linkText: "View tool",
-      href: "https://tezos-kiln.net/",
+      href: "https://docs.tez.capital/tezbake/tutorials/",
     },
     {
       icon: Wallet,
@@ -47,13 +40,6 @@ export const toolsContent = {
       href: "https://tzkt.io",
     },
     {
-      icon: Search,
-      title: "TzStats",
-      description: "Block explorer for Tezos with comprehensive network analytics and statistics.",
-      linkText: "Visit explorer",
-      href: "https://tzstats.com/",
-    },
-    {
       icon: Bell,
       title: "Tezos Notifier Bot",
       description: "Telegram bot that notifies bakers about transactions and other blockchain events.",
@@ -79,7 +65,7 @@ export const toolsContent = {
       title: "Octez Suite",
       description: "Command-line client for interacting with Tezos and running nodes.",
       linkText: "View documentation",
-      href: "https://docs.tezos.com/developing/octez-client",
+      href: "https://octez.tezos.com/docs/",
     },
     {
       icon: Plus,
